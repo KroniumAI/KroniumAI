@@ -1,4 +1,4 @@
-# Kronium AI: Solana Blockchain Monitoring and Analysis
+# Kronium AI : Solana Blockchain Monitoring and Analysis
 
 Kronium AI is an intelligent system built to monitor and analyze the Solana blockchain ecosystem. It uses advanced machine learning models to detect anomalies in transactions, predict Solana token prices, and analyze whale activity to track Dollar Cost Averaging (DCA) behavior.
 
